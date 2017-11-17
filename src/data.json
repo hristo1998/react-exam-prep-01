@@ -1,0 +1,108 @@
+{
+    "users": [
+        {
+            "username": "pesho",
+            "email": "pesho@mail.com",
+            "password": "pppp"
+        }
+    ],
+    "stats": {
+        "furniture": 72,
+        "users": 173
+    },
+    "furniture": [
+        {
+            "id": 1,
+            "make": "Ikea",
+            "model": "Sofa",
+            "year": 2005,
+            "description": "It's a very good sofa",
+            "price": 790,
+            "image": "http://www.ikea.com/PIAimages/0386819_PE559167_S5.JPG",
+            "createdOn": "2017-11-14T08:37:36.871Z",
+            "createdBy": "pesho@mail.com",
+            "likes": [
+                "pesho@mail.com"
+            ],
+            "reviews": [
+                {
+                    "raiting": 5,
+                    "comment": "I liked the sofa, it's good for sitting",
+                    "user": "pesho",
+                    "createdOn": "2017-11-14T08:50:36.871Z"
+                }
+            ],
+            "material" : "Soft but sturdy"
+        },
+        {
+            "id": 2,
+            "make": "Ikea",
+            "model": "Sofa",
+            "year": 2005,
+            "description": "It's a very good sofa",
+            "price": 790,
+            "image": "http://www.ikea.com/PIAimages/0386819_PE559167_S5.JPG",
+            "createdOn": "2017-11-14T08:37:36.871Z",
+            "createdBy": "pesho@mail.com",
+            "likes": [
+                "pesho@mail.com"
+            ],
+            "reviews": [
+                {
+                    "raiting": 5,
+                    "comment": "I liked the sofa, it's good for sitting",
+                    "user": "pesho",
+                    "createdOn": "2017-11-14T08:50:36.871Z"
+                }
+            ],
+            "material" : "Soft but sturdy"
+        },
+        {
+            "id": 3,
+            "make": "Ikea",
+            "model": "Sofa",
+            "year": 2005,
+            "description": "It's a very good sofa",
+            "price": 790,
+            "image": "http://www.ikea.com/PIAimages/0386819_PE559167_S5.JPG",
+            "createdOn": "2017-11-14T08:37:36.871Z",
+            "createdBy": "pesho@mail.com",
+            "likes": [
+                "pesho@mail.com"
+            ],
+            "reviews": [
+                {
+                    "raiting": 5,
+                    "comment": "I liked the sofa, it's good for sitting",
+                    "user": "pesho",
+                    "createdOn": "2017-11-14T08:50:36.871Z"
+                }
+            ],
+            "material" : "Soft but sturdy"
+        }, 
+        {
+            "id": 4,
+            "make": "Ikea",
+            "model": "Sofa",
+            "year": 2005,
+            "description": "It's a very good sofa",
+            "price": 790,
+            "image": "http://www.ikea.com/PIAimages/0386819_PE559167_S5.JPG",
+            "createdOn": "2017-11-14T08:37:36.871Z",
+            "createdBy": "pesho@mail.com",
+            "likes": [
+                "pesho@mail.com"
+            ],
+            "reviews": [
+                {
+                    "raiting": 5,
+                    "comment": "I liked the sofa, it's good for sitting",
+                    "user": "pesho",
+                    "createdOn": "2017-11-14T08:50:36.871Z"
+                }
+            ],
+            "material" : "Soft but sturdy"
+        }
+    ]
+
+}
